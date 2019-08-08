@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ZipFood</string>
+    <string name="restaurant_name">Nama Restoran</string>
+    <string name="address">Alamat</string>
+    <string name="profile">profile</string>
+    <string name="email">zans.grs@gmail.com</string>
+    <string name="name">Zaenal Arsy</string>
+    <string name="data_received">Data Terima</string>
+    <string name="type_food">Type Food</string>
+    <string name="restaurant_name_detail">Restaurant Name</string>
+    <string name="type_food_detail">Type Food</string>
+    <string name="address_detail">Address</string>
+    <string name="phone_number_detail">Phone Number</string>
+</resources>
